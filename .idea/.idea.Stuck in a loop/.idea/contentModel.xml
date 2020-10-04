@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\gorr\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gorr\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Stuck in a loop.1370541260.00" t="ExcludeRecursive" />
+    <e p="D:\Programming\projects\Unity\Stuck in a loop" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BoxButton.cs" t="Include" />
+          <e p="BoxButtonDoors.cs" t="Include" />
+          <e p="BoxRoomRestart.cs" t="Include" />
+          <e p="ComputerButton.cs" t="Include" />
+          <e p="ComputerController.cs" t="Include" />
+          <e p="ComputerPanel.cs" t="Include" />
+          <e p="EndingController.cs" t="Include" />
+          <e p="EventBarController.cs" t="Include" />
+          <e p="EventDoorsController.cs" t="Include" />
+          <e p="EventLifeController.cs" t="Include" />
+          <e p="FinalComputerController.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="MenuController.cs" t="Include" />
+          <e p="Note.cs" t="Include" />
+          <e p="NumComputerButton.cs" t="Include" />
+          <e p="NumComputerPanel.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="SuicideController.cs" t="Include" />
+          <e p="TaskController.cs" t="Include" />
+          <e p="Teleport.cs" t="Include" />
+          <e p="TitleController.cs" t="Include" />
+          <e p="UIHelpText.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Stuck in a loop.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
